@@ -5,7 +5,7 @@ This repository contains an `.ics` file of my university timetable for the acade
 ## How to Use
 
 ### Step 1: Download the `.ics` File
-You can download the `.ics` file directly by [clicking here](https://github.com/aliallam123/UNI-TIMETABLE/blob/main/YEAR_3_QMUL_TIMETABLE.ics).
+You can download the `.ics` file directly by [clicking here](https://github.com/aliallam123/UNI-TIMETABLE/blob/main/uni-timetable.ics).
 
 ### Step 2: Import to Your Calendar
 - **iPhone/iOS**: Email the `.ics` file to yourself and open it on your phone. It will prompt you to add the events to your calendar.
