@@ -1,6 +1,6 @@
 # UNI TIMETABLE
 
-This repository contains an `.ics` file of my university timetable for the academic year 2024/2025. The schedule includes weekly lectures, seminars, workshops, and labs. The `.ics` format is compatible with most calendar applications, making it easy for anyone to import and manage their academic schedule.
+This repository contains an `.ics` file of the QMUL university timetable for the academic year 2024/2025. The schedule includes weekly lectures, seminars, workshops, and labs. The `.ics` format is compatible with most calendar applications, making it easy for anyone to import and manage their academic schedule.
 
 ## HOW TO SET UP
 
